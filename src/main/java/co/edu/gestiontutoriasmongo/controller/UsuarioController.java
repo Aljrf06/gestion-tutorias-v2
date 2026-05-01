@@ -97,7 +97,7 @@ public class UsuarioController {
         return ResponseEntity.noContent().build();
     }
 
-    // ✅ LOGIN
+
     @PostMapping("/login")
     public ResponseEntity<UsuarioRespuestaDTO> login(@RequestBody LoginDTO request) {
         Usuario usuario = usuarioService.ingresar(request.getEmail(), request.getPassword());
