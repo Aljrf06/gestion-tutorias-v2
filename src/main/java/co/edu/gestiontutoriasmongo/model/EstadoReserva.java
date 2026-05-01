@@ -1,4 +1,6 @@
 package co.edu.gestiontutoriasmongo.model;
 
-public class EstadoReserva {
+public enum EstadoReserva {
+    activa,
+    cancelada
 }

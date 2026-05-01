@@ -1,4 +1,7 @@
 package co.edu.gestiontutoriasmongo.model;
 
-public class EstadoFranja {
+public enum EstadoFranja {
+    disponible,
+    reservada,
+    cancelada
 }

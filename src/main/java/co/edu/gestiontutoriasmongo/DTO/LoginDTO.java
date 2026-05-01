@@ -1,4 +1,12 @@
 package co.edu.gestiontutoriasmongo.DTO;
 
-public class Login {
+import lombok.*;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class LoginDTO {
+    private String email;
+    private String password;
 }
