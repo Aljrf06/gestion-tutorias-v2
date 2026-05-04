@@ -69,6 +69,14 @@ gestion-tutorias-v2/
 | PUT | `/usuarios/actualizar/{id}` | Actualizar usuario | ✅ JWT |
 | DELETE | `/usuarios/eliminar/{id}` | Eliminar usuario | ✅ JWT |
 
+## Vistas
+- Registro nuevo usuario
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5966b539-b9b1-414b-b861-ef2c71a293d9" />
+
+- Login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fad5466-3f43-488e-8370-bfa309a1f744" />
+
+
 ## 👥 Autores
 - Alejandra Rodriguez Forero
 - Jerson Steven Mantilla Ramirez
