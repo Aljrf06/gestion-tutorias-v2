@@ -74,6 +74,9 @@ gestion-tutorias-v2/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5966b539-b9b1-414b-b861-ef2c71a293d9" />
 
 - Login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96fb2c0c-e9cb-4d85-833c-22e121219361" />
+
+- Panel 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fad5466-3f43-488e-8370-bfa309a1f744" />
 
 
