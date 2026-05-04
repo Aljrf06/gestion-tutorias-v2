@@ -79,6 +79,9 @@ gestion-tutorias-v2/
 - Panel 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fad5466-3f43-488e-8370-bfa309a1f744" />
 
+- Editar
+<img width="1414" height="182" alt="image" src="https://github.com/user-attachments/assets/acc4ac05-4a79-4bc9-964a-f5c75becddaa" />
+  
 
 ## 👥 Autores
 - Alejandra Rodriguez Forero
