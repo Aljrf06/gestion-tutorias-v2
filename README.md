@@ -57,8 +57,8 @@ gestion-tutorias-v2/
 ## 🔌 Endpoints del API
  
 ### Autenticación
-| Método | Endpoint | Descripción | |
-|--------|----------|-------------|-----
+| Método | Endpoint | Descripción | 
+|--------|----------|-------------|
 | POST | `/usuarios/registrar` | Registrar nuevo usuario |
 | POST | `/usuarios/login` | Iniciar sesión |
  
