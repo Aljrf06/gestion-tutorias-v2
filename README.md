@@ -31,7 +31,7 @@ gestion-tutorias-v2/
 │   │       │   │   └── GlobalExcepcionHandler.java
 │   │       │   ├── model/
 │   │       │   │   ├── TipoUsuario.java      # Enum: tutor, estudiante
-│   │       │   │   └── Usuario.java          # Documento MongoDB
+│   │       │   │   └── Usuario.java          
 │   │       │   ├── repository/
 │   │       │   │   └── UsuarioRepository.java
 │   │       │   └── service/
@@ -57,8 +57,8 @@ gestion-tutorias-v2/
 ## 🔌 Endpoints del API
  
 ### Autenticación
-| Método | Endpoint | Descripción | Auth |
-|--------|----------|-------------|------|
+| Método | Endpoint | Descripción | |
+|--------|----------|-------------|-----
 | POST | `/usuarios/registrar` | Registrar nuevo usuario |
 | POST | `/usuarios/login` | Iniciar sesión |
  
